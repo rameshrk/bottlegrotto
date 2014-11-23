@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [23/Nov/2014:14:03:40 +1100] "GET /bottlegrotto/ping/test1 HTTP/1.1" 200 36 http-bio-8080-exec-1 76
+0:0:0:0:0:0:0:1 - - [23/Nov/2014:14:03:43 +1100] "GET /bottlegrotto/pings HTTP/1.1" 200 50 http-bio-8080-exec-2 10
+0:0:0:0:0:0:0:1 - - [23/Nov/2014:14:03:48 +1100] "GET /bottlegrotto/ping/test12 HTTP/1.1" 200 37 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [23/Nov/2014:14:03:50 +1100] "GET /bottlegrotto/pings HTTP/1.1" 200 99 http-bio-8080-exec-4 4
